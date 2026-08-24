@@ -131,10 +131,11 @@ We also found that there are many hurdles faced by the social simulation communi
 
 ---
 
-# Potential of HPC with ABMs
-
 <!-- .slide: class="right-image-slide" -->
 
+# Potential of HPC with ABMs
+
+<div class="split">
 
 Imagine the next Covid crisis... Trade crisis... Food security crisis... Transport infrastructure crisis... Energy crisis...
 
