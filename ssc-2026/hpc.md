@@ -53,6 +53,14 @@
 
 ---
 
+# ExAMPLER project findings
+
+We also found that there are many hurdles faced by the social simulation community when accessing HPC resources
+
+![Graphic showing the hurdles faced by ABMers](img/hurdles.png)
+
+--- 
+
 <!-- .slide: class="right-image-slide" -->
 
 # Use cases of HPC with ABMs
@@ -95,7 +103,14 @@
 
 ---
 
+<!-- .slide: class="right-image-slide" -->
+
 # Access to HPC for ABMs
+
+
+<div class="split">
+<div class="split-text">
+
 
   + See Polhill (2022)
 
@@ -106,3 +121,10 @@
     + Context sensitive decision-making algorithms (e.g. CONSUMAT)
 
   + Technical reasons too &mdash; _must_ we access HPC by command-line?
+
+</div> <div class="split-image">
+
+![Screenshot of antiscoial simulation paper](img/antisoc-sim.png)
+
+</div>
+</div>
