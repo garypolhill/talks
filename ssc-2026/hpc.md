@@ -85,24 +85,6 @@ We also found that there are many hurdles faced by the social simulation communi
 
 ---
 
-# Potential of HPC with ABMs
-
-  + Regional, national and international-scale simulations
-    + Town / small city scale more common currently
-    + _Northern Powerhouse_ in the UK would involve several cities &mdash; Leeds, Sheffield, Manchester, Liverpool
-    + More generally: if we build infrastructure _here_ what is the effect on people _there_ (100+km away)
-
-  + Calibration &mdash; an 'embarrassingly parallel' problem perfect for HPC
-    + If I can explore 100 parameter samples on my laptop, I can do 100,000,000 samples on national HPC infrastructure!
-    + Better calibrated models are easier to trust
-
-  + Similarly for uncertainty analysis
-
-  + Better exploration of formalized social theories
-    + Searching all the alternative representations rather than just one implementation with many arbitrary choices...
-
----
-
 <!-- .slide: class="right-image-slide" -->
 
 # Access to HPC for ABMs
@@ -127,4 +109,47 @@ We also found that there are many hurdles faced by the social simulation communi
 ![Screenshot of antiscoial simulation paper](img/antisoc-sim.png)
 
 </div>
+</div>
+
+---
+
+# Potential of HPC with ABMs
+
+  + Regional, national and international-scale simulations
+    + Town / small city scale more common currently
+    + _Northern Powerhouse_ in the UK would involve several cities &mdash; Leeds, Sheffield, Manchester, Liverpool
+    + More generally: if we build infrastructure _here_ what is the effect on people _there_ (100+km away)
+
+  + Calibration &mdash; an 'embarrassingly parallel' problem perfect for HPC
+    + If I can explore 100 parameter samples on my laptop, I can do 100,000,000 samples on national HPC infrastructure!
+    + Better calibrated models are easier to trust
+
+  + Similarly for uncertainty analysis
+
+  + Better exploration of formalized social theories
+    + Searching all the alternative representations rather than just one implementation with many arbitrary choices...
+
+---
+
+# Potential of HPC with ABMs
+
+<!-- .slide: class="right-image-slide" -->
+
+
+Imagine the next Covid crisis... Trade crisis... Food security crisis... Transport infrastructure crisis... Energy crisis...
+
+  + Affects the whole country
+
+  + How do we capture the heterogeneity of the whole population?
+
+    + In space...
+
+    + With all of its complexity...
+
+  + And support decision-making to Aqua Book standards, with uncertainty quantified...?
+
+</div> <div class="split-image">
+
+![Image of Squazzoni et al.'s JASSS page](img/squazzoni-covid.png)
+
 </div>
