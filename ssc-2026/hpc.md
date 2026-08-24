@@ -163,6 +163,6 @@ Imagine the next Covid crisis... Trade crisis... Food security crisis... Transpo
 
 <p>These slides:</p>
 
-(https://garypolhill.github.io/talks/ssc-2026/hpc.html)[https://garypolhill.github.io/talks/ssc-2026/hpc.html]
+[https://garypolhill.github.io/talks/ssc-2026/hpc.html](https://garypolhill.github.io/talks/ssc-2026/hpc.html)
 
-!(QR code)[img/hpc-qr.png]
+![QR code](img/hpc-qr.png)
