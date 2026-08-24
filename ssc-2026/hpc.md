@@ -153,3 +153,4 @@ Imagine the next Covid crisis... Trade crisis... Food security crisis... Transpo
 ![Image of Squazzoni et al.'s JASSS page](img/squazzoni-covid.png)
 
 </div>
+</div>
