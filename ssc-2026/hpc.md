@@ -7,7 +7,7 @@
 
 <div class="logo-strip">
   <div class="logo-box"><img src="../brand/hutton/hutton-logo.png" alt="The James Hutton Institute Logo" style="height:44px;"/></div>
-  <div class="logo-box"><img src="../brand/glasgow/glasgow-unboxed-logo.png" alt="University of Glasgow Logo" style="height:44px;"/></div>
+  <div class="logo-box"><img src="../brand/glasgow/glasgow-unboxed-logo.png" alt="University of Glasgow Logo" style="height:88px;"/></div>
 </div>
 
 ---
