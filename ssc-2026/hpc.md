@@ -70,7 +70,7 @@
 
 </div><div class="split-image">
 
-![Decision tree summarizing results from Polhill et al. (2013)](https://ars.els-cdn.com/content/image/1-s2.0-S1364815212002824-gr5.jpg)
+![Decision tree summarizing results from Polhill et al. (2013)](img/fearlus-spomm.jpg)
 
 </div>
 </div>
