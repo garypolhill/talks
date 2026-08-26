@@ -38,7 +38,7 @@ The James Hutton Institute
 
 ---
 
-<!-- .slide: class="split-image-right"  -->
+<!-- .slide: class="right-image-slide"  -->
 
 # Some Dimensions
 
@@ -99,7 +99,7 @@ Consider the FEARLUS model (Polhill et al. 2001), a 'typification' according to 
 
 ---
 
-<!-- .slide: class="split-image-right"  -->
+<!-- .slide: class="right-image-slide"  -->
 
 # Example cont'd
 
@@ -139,7 +139,8 @@ So, how does FEARLUS measure up against the relevant dimensions?
 
 <!-- .slide: class="section-title-purple" -->
 
-# Conclusion: FEARLUS is a 'Level 1' model
+# Conclusion:
+## FEARLUS is a 'Level 1' model
 
 ---
 
@@ -158,3 +159,7 @@ So, how does FEARLUS measure up against the relevant dimensions?
 ---
 
 <!-- .slide: class="final-slide" -->
+
+These slides: https://garypolhill.github.io/talks/ssc-2026/confidence.html
+
+![QR code for talk URL](img/confidence-qr.png)
