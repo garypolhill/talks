@@ -1,5 +1,5 @@
 <!-- .slide: class="title-slide" -->
-# Why ABM needs HPC
+# Communicating Confidence in Agent-Based Models
 ## Gary Polhill, Matt Hare, Nick Roxburgh, Doug Salt, Marie Castellazzi &amp; Becky Smith
 
 The James Hutton Institute
