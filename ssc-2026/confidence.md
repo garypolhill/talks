@@ -160,6 +160,8 @@ So, how does FEARLUS measure up against the relevant dimensions?
 
 <!-- .slide: class="final-slide" -->
 
+This work was supported by the Scottish Government Rural and Environment Science and Analytical Services Division (project reference [JHI-C5-1](https://large-scale-modelling.hutton.ac.uk))
+
 These slides: https://garypolhill.github.io/talks/ssc-2026/confidence.html
 
 ![QR code for talk URL](img/confidence-qr.png)
