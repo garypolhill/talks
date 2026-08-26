@@ -65,6 +65,7 @@ The James Hutton Institute
 
 
 </div><div class="split-text">
+
   + Community
     + Who has used the model (besides the developer)?
 
@@ -98,9 +99,13 @@ Consider the FEARLUS model (Polhill et al. 2001), a 'typification' according to 
 
 ---
 
+<!-- .slide: class="split-image-right"  -->
+
 # Example cont'd
 
 So, how does FEARLUS measure up against the relevant dimensions?
+
+<div class="split"><div class="split-text">
 
   + **Scientific &amp; Theoretical Foundations** &mdash; satisficing, imitation
     + Level 1: _References are made somewhere to scientific or theoretical foundations for some parts of the model_
@@ -114,6 +119,8 @@ So, how does FEARLUS measure up against the relevant dimensions?
   + **Community** &mdash; A handful of users in the project team
     + Level 1: _Used by developer and team in a project_
 
+</div><div class="split-text">
+
   + **Documentation** &mdash; User guide and ODD
     + Level 2: _Documentation exists on  what the code does and how to use it_
 
@@ -126,9 +133,11 @@ So, how does FEARLUS measure up against the relevant dimensions?
   + **Portability** &mdash; Tricky: FEARLUS is built in Swarm. Has a statically-compiled executable
     + Level 1: _Model will run on multiple computers with the same OS_
 
+</div></div>
+
 ---
 
-<!-- .slide: class="session-title" -->
+<!-- .slide: class="section-title-purple" -->
 
 # Conclusion: FEARLUS is a 'Level 1' model
 
