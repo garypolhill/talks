@@ -80,7 +80,7 @@ The James Hutton Institute
 
 # Example
 
-Consider the FEARLUS model (Polhill et al. 2001), a 'typification' according to Boero &amp; Squazzoni (2005) what dimensions might _not_ be relevant?
+Consider the FEARLUS model (Polhill et al. 2001), a 'typification' according to Boero &amp; Squazzoni (2005). What dimensions might _not_ be relevant?
 
   + **Confirmability** &mdash; FEARLUS was not designed in 2001 to be fitted to an empirical case study
   + **Generalizability** &mdash; For similar reasons, there won't be several case studies to which FEARLUS has been applied
